@@ -6,7 +6,7 @@ git commit -m '描述信息'  // 将暂存区内容提交到本地库
 
 git branch -M main ，上传到 main 分支
 
-git remote add origin https://github.com/xx/xx.git，和远程仓库连接
+git remote add origin https://github.com/xx/xx.git，和远程仓库连接（第一次）
 
 git push -u origin main 将本地项目推送到远程仓库
 
